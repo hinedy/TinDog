@@ -13,7 +13,7 @@ main, header {
 
 @media (min-width: 550px){
     main, header {
-        max-width: 450px
+        max-width: 400px
     }
 
 }
