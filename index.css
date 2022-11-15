@@ -7,11 +7,16 @@ body{
 }
 
 main, header {
-    max-width: 550px;
+    max-width: 95%;
     margin: 0 auto;
 }
 
+@media (min-width: 550px){
+    main, header {
+        max-width: 550px
+    }
 
+}
 h3,p {
     margin: 0;
 }
