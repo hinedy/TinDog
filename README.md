@@ -1,4 +1,12 @@
-# coc94439aabd431a9bf95b446
+# TinDog
+Tinder For Dogs.
+## Part of Scrimba's [The Frontend Career Path](https://scrimba.com/learn/frontend)
+
+### A solo project to practice:
+  - JavaScript Classes
+  - Modules (import/export)
+
+Followed [figma design](https://www.figma.com/file/LdlksbT0QYLpRlHrOlKDuc/Tinder-for-Dogs?node-id=0%3A1) spec.
 
 Quick start:
 
